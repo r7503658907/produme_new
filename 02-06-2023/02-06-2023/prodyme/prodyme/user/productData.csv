@@ -1,0 +1,9 @@
+product_id,productFeature
+CGA000002,"{""Product Description"": ""This is the best product"", ""Warranty"":1,"" Mounting Type"": ""Dual Mount"", ""Material"": ""SS 304"", ""Shape"": ""Rectangular"", ""Rim Guage/ Thickness"":""2 mm""}"
+CAA000001,"{""Product Description"": ""This is the best product"", ""Warranty"":1,"" Mounting Type"": ""Wall Mount"", ""Material"": ""Brass"", ""Flow Type"": ""Foam "", ""Flow Rate at 3 bars"":""13 litres per minute""}"
+CAA000003,"{""Fixing Base"": ""Epoxy Adhesive or Sand & Cement or Plywood + Expoxy Adhesive"", ""Stain Resistance"":""High"","" Scratch Resistance"": ""Medium"", ""Fungus Resistance"": ""Medium"", ""Impact Resistance"": ""Low"", ""PD Aesthetic Grading"":""Two Star""}"
+CAA000005,"{""Water Resistant"":""Low""}"
+CAA000006,"{""Thickness"": ""Thickness"", ""Length"": ""Length"","" Breadth"": ""Breadth"", ""Fixing Base"": ""Epoxy Adhesive or Sand & Cement or Plywood + Expoxy Adhesive"", ""Stain Resistance"": ""Medium"", ""
+Scratch Resistance"": ""Medium""}"
+CAA000008,"{""Thickness"": ""Thickness"", ""Length"":""Length"","" Breadth"": ""Breadth"", ""Fixing Base"": ""Epoxy Adhesive or Sand & Cement or Plywood + Expoxy Adhesive"", ""Stain Resistance"": ""Medium"", ""
+Scratch Resistance"":""Medium""}"

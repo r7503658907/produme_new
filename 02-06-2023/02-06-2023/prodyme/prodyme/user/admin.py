@@ -1,0 +1,28 @@
+from django.contrib import admin
+from .models import *
+
+admin.site.site_header = 'Prodyme Admin'
+admin.site.register(prodymeUser)
+admin.site.register(profile)
+admin.site.register(SmartBuilder)
+admin.site.register(PartitionBasketDetails)
+admin.site.register(SmartBuilderDesign)
+admin.site.register(GetInTouchModel)
+admin.site.register(profile_address)
+admin.site.register(smartBuilderPartitionCalculator)
+admin.site.register(Wishlist)
+admin.site.register(SavedCart)
+admin.site.register(Loyalty)
+admin.site.register(bookAService)
+admin.site.register(professional)
+admin.site.register(notification)
+admin.site.register(workChart)
+admin.site.register(CommunicationPreference)
+admin.site.register(Category)
+admin.site.register(subCategory)
+admin.site.register(subSubCategory)
+admin.site.register(Product)
+admin.site.register(productDetail)
+admin.site.register(boqAudit)
+admin.site.register(productRateing)
+admin.site.register(productSale)
